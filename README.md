@@ -1,3 +1,3 @@
 # singlepageresume
 Project from Roadmap.sh
-https://github.com/jigarsutaria/singlepageresume
+https://roadmap.sh/projects/single-page-cv
